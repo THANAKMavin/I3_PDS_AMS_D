@@ -1,2 +1,0 @@
-
-print(celsius_to_fahrenheit(0), "F")
