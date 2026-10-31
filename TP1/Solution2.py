@@ -1,3 +1,5 @@
+print("\nProblem2\n")
+
 total_second = 9875
 
 hour = total_second // 3600
